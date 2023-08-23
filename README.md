@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Esto es un repositorio del modulo2 del PrepCourse de Henry
+Prueba de como crear un repositorio desde git 
